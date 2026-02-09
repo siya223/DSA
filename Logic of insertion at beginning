@@ -23,7 +23,7 @@ int main(){
         printf("4.delete from beginning\n");
         printf("5.delete from ennd \n");
         printf("6.delete from beginning\n");
-        printf("7.desplay list\n");
+        printf("7.display list\n");
         printf("8.search element in list\n");
         printf("9.update element in list\n");
         printf("10.sort elements in list\n");
